@@ -14,7 +14,7 @@ const ResetPasswordPage: React.FC = () => (
         <label className="block text-gray-700">Confirm New Password</label>
         <input type="password" className="mt-1 p-2 w-full border border-gray-300 rounded-lg" />
       </div>
-      <button type="submit" className="w-full bg-[#cc6699] text-white py-2 rounded-lg hover:bg-[#cc6699]">
+      <button type="submit" className="w-full bg-blue-500 text-white py-2 rounded-lg hover:bg-blue-900">
         Reset Password
       </button>
       <p className="text-gray-600 mt-4 text-center">
